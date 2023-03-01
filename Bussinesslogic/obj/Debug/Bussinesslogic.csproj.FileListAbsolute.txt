@@ -1,0 +1,11 @@
+D:\MyProject\Bussinesslogic\bin\Debug\Bussinesslogic.dll
+D:\MyProject\Bussinesslogic\bin\Debug\Bussinesslogic.pdb
+D:\MyProject\Bussinesslogic\bin\Debug\BussinessObject.dll
+D:\MyProject\Bussinesslogic\bin\Debug\DataAccess.dll
+D:\MyProject\Bussinesslogic\bin\Debug\BussinessObject.pdb
+D:\MyProject\Bussinesslogic\bin\Debug\DataAccess.pdb
+D:\MyProject\Bussinesslogic\obj\Debug\Bussinesslogic.csproj.AssemblyReference.cache
+D:\MyProject\Bussinesslogic\obj\Debug\Bussinesslogic.csproj.CoreCompileInputs.cache
+D:\MyProject\Bussinesslogic\obj\Debug\Bussinesslogic.csproj.CopyComplete
+D:\MyProject\Bussinesslogic\obj\Debug\Bussinesslogic.dll
+D:\MyProject\Bussinesslogic\obj\Debug\Bussinesslogic.pdb

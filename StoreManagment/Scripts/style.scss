@@ -1,0 +1,28 @@
+.siiimpleToast {
+  position: absolute;
+  padding: 14px 18px;
+  min-width: 250px;
+  z-index: 999999;
+  border-radius: 2px;
+  color: #fff;
+  font-weight: 300;
+  white-space: nowrap;
+  user-select: none;
+  opacity: 0;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  box-sizing: border-box;
+  transform: scale(0.5);
+  transition: all 0.4s ease-out;
+
+  &[data-state="default"] {
+    background-color: #323232;
+  }
+
+  &[data-state="success"] {
+    background-color: #8BC34A;
+  }
+
+  &[data-state="alert"] {
+    background-color: #d93737;
+  }
+}

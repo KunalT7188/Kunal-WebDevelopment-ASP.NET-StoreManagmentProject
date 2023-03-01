@@ -1,0 +1,6 @@
+D:\MyProject\BussinessObject\bin\Debug\BussinessObject.dll
+D:\MyProject\BussinessObject\bin\Debug\BussinessObject.pdb
+D:\MyProject\BussinessObject\obj\Debug\BussinessObject.csproj.CoreCompileInputs.cache
+D:\MyProject\BussinessObject\obj\Debug\BussinessObject.dll
+D:\MyProject\BussinessObject\obj\Debug\BussinessObject.pdb
+D:\MyProject\BussinessObject\obj\Debug\BussinessObject.csproj.AssemblyReference.cache

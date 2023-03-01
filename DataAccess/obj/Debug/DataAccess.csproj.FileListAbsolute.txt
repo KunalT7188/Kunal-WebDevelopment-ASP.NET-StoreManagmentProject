@@ -1,0 +1,9 @@
+D:\MyProject\DataAccess\bin\Debug\DataAccess.dll
+D:\MyProject\DataAccess\bin\Debug\DataAccess.pdb
+D:\MyProject\DataAccess\bin\Debug\BussinessObject.dll
+D:\MyProject\DataAccess\bin\Debug\BussinessObject.pdb
+D:\MyProject\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+D:\MyProject\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\MyProject\DataAccess\obj\Debug\DataAccess.dll
+D:\MyProject\DataAccess\obj\Debug\DataAccess.pdb
+D:\MyProject\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete

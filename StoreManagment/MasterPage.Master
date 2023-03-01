@@ -1,0 +1,134 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="StoreManagment.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>KT Store</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="image/assets/img/favicon.png" rel="icon">
+  <link href="image/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="image/assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="image/assets/vendor/aos/aos.css" rel="stylesheet">
+  <link href="image/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="image/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="image/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="image/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="image/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="image/assets/css/style.css" rel="stylesheet">
+   
+
+  <!-- =======================================================
+  * Template Name: Restaurantly - v3.3.0
+  * Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+    <style type="text/css">
+        .auto-style1 {
+            height: 285px;
+            width: 1324px;
+        }
+        .auto-style2 {
+            width: 80%;
+        }
+        .auto-style3 {
+            width: 1324px;
+        }
+        </style>
+</head>
+
+   
+<body>
+   
+    <form id="form1" runat="server">
+        <div>
+            <table class="auto-style2">
+                <tr>
+                    <td class="auto-style1">
+                        <header id="header" class="fixed-top d-flex align-items-cente">
+  <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
+
+     <center> <h1 class="logo me-auto me-lg-0" style="font-size: xx-large"><a href="HomePage.aspx">KT Store</a></h1></center>
+   
+
+      <nav id="navbar" class="navbar order-last order-lg-0">
+        <ul>
+          <li><a class="nav-link scrollto active" href="HomePage.aspx">Home</a></li>
+          <li><a class="nav-link scrollto" href="About.aspx">Company Product</a></li>
+          <li><a class="nav-link scrollto" href="OurProduct.aspx"> Our Product</a></li>
+          
+          
+               <li><a class="nav-link scrollto" href="LoginPage.aspx">Login</a></li>
+               
+           
+        
+          <li><a class="nav-link scrollto" href="ContactUs.aspx">Contact Us</a></li>
+             <li class="dropdown"><a href="#"><span>Setting</span> <i class="bi bi-chevron-down"></i></a>
+            <ul>
+              <li><a href="ProfilePage.aspx">Edit Profile</a></li>
+              <li><a href="Logout.aspx"> Logout </a></li>
+           
+            </ul>
+          </li>
+           
+        </ul>
+        <i class="bi bi-list mobile-nav-toggle"></i>
+      </nav>
+    </div>
+  </header>
+               
+                <tr>
+                    <td class="auto-style3">
+                        <div>
+                             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" >
+                        </asp:ContentPlaceHolder>
+                        </div>
+                       
+                    </td>
+                </tr>
+                <tr>
+                  
+                    <td class="auto-style1"><footer id="footer">
+    
+  
+                      
+    
+    
+      <div class="copyright" style="width: 1632px">
+        &copy; Copyright <strong><span>KT STORE</span></strong>. All Rights Reserved
+      </div>
+      <div class="credits" style="width: 1532px">
+        <!-- All the links in the footer should remain intact. -->
+        <!-- You can delete the links only if you purchased the pro version. -->
+        <!-- Licensing information: https://bootstrapmade.com/license/ -->
+        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/restaurantly-restaurant-template/ -->
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        Designed by <a href="https://bootstrapmade.com/">Kunal Talwekar</a>
+      </div>
+       
+   
+  </footer>
+
+                    </td>
+                </tr>
+            </table>
+      </div>  
+    
+    </form>
+</body>
+</html>
+
